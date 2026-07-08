@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepya77/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/dedeepya77/Leetcode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
