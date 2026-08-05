@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dedeepya77/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dedeepya77/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/dedeepya77/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/dedeepya77/Leetcode/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepya77/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dedeepya77/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/dedeepya77/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dedeepya77/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/dedeepya77/Leetcode/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
