@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dedeepya77/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/dedeepya77/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dedeepya77/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/dedeepya77/Leetcode/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/dedeepya77/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -125,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dedeepya77/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/dedeepya77/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
